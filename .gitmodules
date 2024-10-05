@@ -1,3 +1,6 @@
 [submodule "uniswap-v2-project"]
 	path = uniswap-v2-project
 	url = https://github.com/mskhno/uniswap-v2-project
+[submodule "dao-project"]
+	path = dao-project
+	url = https://github.com/mskhno/dao-project
